@@ -22,7 +22,7 @@ A clean, safe, and feature-rich Discord bot written in Python using `discord.py`
 
 ```bash
 git clone https://github.com/ProjectVelocity1/blubz-s-bot-tool
-cd discord-multi-tool
+cd blubz-s-bot-tool
 ```
 
 ### 2. Install Dependencies
