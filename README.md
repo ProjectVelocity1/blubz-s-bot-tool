@@ -21,7 +21,7 @@ A clean, safe, and feature-rich Discord bot written in Python using `discord.py`
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/discord-multi-tool.git
+git clone https://github.com/ProjectVelocity1/blubz-s-bot-tool
 cd discord-multi-tool
 ```
 
